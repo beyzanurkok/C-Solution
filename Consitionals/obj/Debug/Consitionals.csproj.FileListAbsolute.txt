@@ -1,0 +1,6 @@
+C:\Users\beyza\C#\CSharpCourse\Consitionals\bin\Debug\Consitionals.exe.config
+C:\Users\beyza\C#\CSharpCourse\Consitionals\bin\Debug\Consitionals.exe
+C:\Users\beyza\C#\CSharpCourse\Consitionals\bin\Debug\Consitionals.pdb
+C:\Users\beyza\C#\CSharpCourse\Consitionals\obj\Debug\Consitionals.csproj.CoreCompileInputs.cache
+C:\Users\beyza\C#\CSharpCourse\Consitionals\obj\Debug\Consitionals.exe
+C:\Users\beyza\C#\CSharpCourse\Consitionals\obj\Debug\Consitionals.pdb

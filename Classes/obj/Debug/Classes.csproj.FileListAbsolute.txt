@@ -1,0 +1,6 @@
+C:\Users\beyza\C#\CSharpCourse\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\beyza\C#\CSharpCourse\Classes\bin\Debug\Classes.exe.config
+C:\Users\beyza\C#\CSharpCourse\Classes\bin\Debug\Classes.exe
+C:\Users\beyza\C#\CSharpCourse\Classes\bin\Debug\Classes.pdb
+C:\Users\beyza\C#\CSharpCourse\Classes\obj\Debug\Classes.exe
+C:\Users\beyza\C#\CSharpCourse\Classes\obj\Debug\Classes.pdb
