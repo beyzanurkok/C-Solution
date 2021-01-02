@@ -1,0 +1,7 @@
+C:\Users\beyza\C#\CSharpCourse\VirtuaşMethods\bin\Debug\VirtuaşMethods.exe.config
+C:\Users\beyza\C#\CSharpCourse\VirtuaşMethods\bin\Debug\VirtuaşMethods.exe
+C:\Users\beyza\C#\CSharpCourse\VirtuaşMethods\bin\Debug\VirtuaşMethods.pdb
+C:\Users\beyza\C#\CSharpCourse\VirtuaşMethods\obj\Debug\VirtualMethods.csprojAssemblyReference.cache
+C:\Users\beyza\C#\CSharpCourse\VirtuaşMethods\obj\Debug\VirtualMethods.csproj.CoreCompileInputs.cache
+C:\Users\beyza\C#\CSharpCourse\VirtuaşMethods\obj\Debug\VirtuaşMethods.exe
+C:\Users\beyza\C#\CSharpCourse\VirtuaşMethods\obj\Debug\VirtuaşMethods.pdb

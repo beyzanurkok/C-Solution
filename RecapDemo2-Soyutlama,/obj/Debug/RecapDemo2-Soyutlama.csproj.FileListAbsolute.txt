@@ -1,0 +1,7 @@
+C:\Users\beyza\C#\CSharpCourse\RecapDemo2-Soyutlama,\bin\Debug\RecapDemo2-Soyutlama,.exe.config
+C:\Users\beyza\C#\CSharpCourse\RecapDemo2-Soyutlama,\bin\Debug\RecapDemo2-Soyutlama,.exe
+C:\Users\beyza\C#\CSharpCourse\RecapDemo2-Soyutlama,\bin\Debug\RecapDemo2-Soyutlama,.pdb
+C:\Users\beyza\C#\CSharpCourse\RecapDemo2-Soyutlama,\obj\Debug\RecapDemo2-Soyutlama.csprojAssemblyReference.cache
+C:\Users\beyza\C#\CSharpCourse\RecapDemo2-Soyutlama,\obj\Debug\RecapDemo2-Soyutlama.csproj.CoreCompileInputs.cache
+C:\Users\beyza\C#\CSharpCourse\RecapDemo2-Soyutlama,\obj\Debug\RecapDemo2-Soyutlama,.exe
+C:\Users\beyza\C#\CSharpCourse\RecapDemo2-Soyutlama,\obj\Debug\RecapDemo2-Soyutlama,.pdb

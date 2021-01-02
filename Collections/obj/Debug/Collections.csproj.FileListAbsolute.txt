@@ -1,0 +1,7 @@
+C:\Users\beyza\C#\CSharpCourse\Collections\bin\Debug\Collections.exe.config
+C:\Users\beyza\C#\CSharpCourse\Collections\bin\Debug\Collections.exe
+C:\Users\beyza\C#\CSharpCourse\Collections\bin\Debug\Collections.pdb
+C:\Users\beyza\C#\CSharpCourse\Collections\obj\Debug\Collections.csprojAssemblyReference.cache
+C:\Users\beyza\C#\CSharpCourse\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+C:\Users\beyza\C#\CSharpCourse\Collections\obj\Debug\Collections.exe
+C:\Users\beyza\C#\CSharpCourse\Collections\obj\Debug\Collections.pdb

@@ -1,0 +1,6 @@
+C:\Users\beyza\C#\CSharpCourse\İnheritances\bin\Debug\İnheritances.exe.config
+C:\Users\beyza\C#\CSharpCourse\İnheritances\bin\Debug\İnheritances.exe
+C:\Users\beyza\C#\CSharpCourse\İnheritances\bin\Debug\İnheritances.pdb
+C:\Users\beyza\C#\CSharpCourse\İnheritances\obj\Debug\İnheritances.csproj.CoreCompileInputs.cache
+C:\Users\beyza\C#\CSharpCourse\İnheritances\obj\Debug\İnheritances.exe
+C:\Users\beyza\C#\CSharpCourse\İnheritances\obj\Debug\İnheritances.pdb
