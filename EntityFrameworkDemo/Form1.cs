@@ -27,6 +27,16 @@ namespace EntityFrameworkDemo
         {
             dgwProducts.DataSource = _productDal.GetAll();
         }
+        private void SearchProducts(string key)
+        {  /* burada önce veri tabanından tüm listeyi çeker içerisinden filtreleme yapar.
+            küçük büyük harfe duyarlılık vardır bu yüzden girilen string ve ürün adı küçük harfe çevirilerek karşılaştırma yapılır.
+           veri tabanında getirildiği takdirde küçük büyük harf duyarlılığı yoktur.*/
+
+           //var result= _productDal.GetAll().Where(p=>p.Name.ToLower().Contains(key.ToLower())).ToList();  
+
+            var result = _productDal.GetByName(key);
+            dgwProducts.DataSource = result;
+        }
 
         private void btnAdd_Click(object sender, EventArgs e)
         {
@@ -86,6 +96,16 @@ namespace EntityFrameworkDemo
             });
             LoadProducts();
             MessageBox.Show("Updated!");
+        }
+
+        private void tbxSearch_TextChanged(object sender, EventArgs e)
+        {
+            SearchProducts(tbxSearch.Text);
+        }
+
+        private void btnGetById_Click(object sender, EventArgs e)
+        {
+            _productDal.GetById(1);
         }
     }
 }

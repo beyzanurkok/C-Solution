@@ -16,6 +16,48 @@ namespace EntityFrameworkDemo
                 return context.Products.ToList();
             }
         }
+        public List<Product> GetByName(string key)
+        {
+            using (ETradeContext context = new ETradeContext())
+            {
+                // bu işlemi veri tabanında yapmak daha hızlı sonuç verir.
+                return context.Products.Where(p=>p.Name.Contains(key)).ToList(); 
+                                                                                
+            }
+        }
+
+        public Product GetById(int id)
+        {
+            using (ETradeContext context = new ETradeContext())
+            {
+                // FirstOrDefault listede belirtilen nesne varsa ilkini döndürür.Yoksa null döndürür.
+                var result = context.Products.FirstOrDefault(p => p.Id == id);
+
+                // SingleOrDefault listede belirtilen nesne varsa bir kere varsa onu döndürür,birden fazla nesne bulursa hata verir.Yoksa null döndürür.
+                //var result = context.Products.SingleOrDefault(p => p.Id == id);
+
+                return result;
+
+            }
+        }
+
+        public List<Product> GetByUnitPrice(decimal min ,decimal max)
+        {
+            // Min max parametreleri arasında bulunan unitprice a sahip ürünleri döndürür.
+            using (ETradeContext context = new ETradeContext())
+            {
+                return context.Products.Where(p => p.UnitPrice >= min && p.UnitPrice <= max).ToList();
+            }
+        }
+
+        public List<Product> GetByUnitPrice(decimal price)
+        {
+            // Min max parametreleri arasında bulunan unitprice a sahip ürünleri döndürür.
+            using (ETradeContext context = new ETradeContext())
+            {
+                return context.Products.Where(p => p.UnitPrice >= price).ToList();
+            }
+        }
 
         public void Add(Product product)
         {
