@@ -1,0 +1,7 @@
+C:\Users\beyza\C#\CSharpCourse\Attributes\bin\Debug\Attributes.exe.config
+C:\Users\beyza\C#\CSharpCourse\Attributes\bin\Debug\Attributes.exe
+C:\Users\beyza\C#\CSharpCourse\Attributes\bin\Debug\Attributes.pdb
+C:\Users\beyza\C#\CSharpCourse\Attributes\obj\Debug\Attributes.csprojAssemblyReference.cache
+C:\Users\beyza\C#\CSharpCourse\Attributes\obj\Debug\Attributes.csproj.CoreCompileInputs.cache
+C:\Users\beyza\C#\CSharpCourse\Attributes\obj\Debug\Attributes.exe
+C:\Users\beyza\C#\CSharpCourse\Attributes\obj\Debug\Attributes.pdb
